@@ -1,4 +1,4 @@
-package ru.dzvorygin.jfastfake;
+package ru.zvorygin.jfastfake;
 
 import java.util.SplittableRandom;
 
